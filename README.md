@@ -3,7 +3,7 @@
 
 ## 課題
 [課題PDF](./kadai.pdf)
-
+[課題のマークダウンファイル](./kadai.md
 ## 確認用プログラム
 https://replit.com/@tanabe1970/RisawaNumber#main.c
 から実行できます。
