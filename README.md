@@ -6,7 +6,13 @@
 
 ## 確認用プログラム
 https://replit.com/@tanabe1970/RisawaNumber#main.c
-から実行できます。
+から実行できます。m, nの値を入力した後、「デバッグ出力しますか？」と聞かれます。再帰的な呼び出しの様子をprintfで出力したい人はに1を、
+計算を速くしたい人は0を入力して下さい。
+
+ローカルでダウンロードしたい人は
+https://github.com/tanabe-ubek/RisawaNumber/blob/main/main.c
+から取ってください。
+
 
 ## 考察
 - いくつかのアドレスに対するリサワ数を確認し、規則がないか考えてみよう。
