@@ -1,5 +1,5 @@
 #include <stdio.h>
-int count = 0;
+long int count = 0;
 int debug;
 
 int risawa(int m, int n) {
@@ -32,6 +32,6 @@ int main(void) {
   printf("デバッグ出力する [Yes:1 / No:0]?");
   scanf("%d", &debug);
   printf("%d丁目%d番地のリサワ数は%dです。\n", m, n, risawa(m, n));
-  printf("リサワ関数の呼び出し回数は%d回です。\n", count);
+  printf("リサワ関数の呼び出し回数は%ld回です。\n", count);
   return 0;
 }
